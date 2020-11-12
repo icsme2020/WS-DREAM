@@ -1,3 +1,5 @@
+Note: this ia a fork repository from https://github.com/wsdream/WS-DREAM. We use this only for education, and many thanks to the authors of WS-DREAM. 
+
 ##WS-DREAM
 
 WS-DREAM is a package of open source-code and datasets to benchmark QoS-driven services research, especially on Web service recommendation.
